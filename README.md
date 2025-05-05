@@ -6,7 +6,7 @@
 ![image](https://github.com/guanqiyuan/WeatherIR/blob/main/figs/data_pipeline.jpg)
 
 
-## :date: Dataset pipeline
+## :date: Illustration of the WeatherIR dataset
 ![image](https://github.com/guanqiyuan/WeatherIR/blob/main/figs/dataset_show.jpg)
 
 
