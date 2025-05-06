@@ -1,4 +1,4 @@
-# WeatherIR
+# WeatherBench
 
 
 
