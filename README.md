@@ -19,7 +19,7 @@
 
 ## 📷️ Visual Results
 
-We provide evaluation code to assess PSNR, SSIM, and LPIPS results. You need to set the parameters generated_images_path, target_path, and Score_save_path.
+We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherBench/blob/main/evaluation.py)) to assess PSNR, SSIM, and LPIPS results. You need to set the parameters `--generated_images_path`, `--target_path`, and `--Score_save_path`.
 
 | Methods | Download Link |
 |---------|------|
@@ -38,3 +38,10 @@ We provide evaluation code to assess PSNR, SSIM, and LPIPS results. You need to 
 | MWFormer     |  [Google Drive](https://seungjunnah.github.io/Datasets/gopro)/[Baidu Netdisk](https://seungjunnah.github.io/Datasets/gopro) (1111) |
 | Histoformer  |  [Google Drive](https://seungjunnah.github.io/Datasets/gopro)/[Baidu Netdisk](https://seungjunnah.github.io/Datasets/gopro) (1111) |
 | AdaIR        |  [Google Drive](https://seungjunnah.github.io/Datasets/gopro)/[Baidu Netdisk](https://seungjunnah.github.io/Datasets/gopro) (1111) |
+
+
+## ❣ Citation
+`xxxx`
+
+## 📧 Contact
+If you have any questions, please feel free to reach me out at qyuanguan@gmail.com.
