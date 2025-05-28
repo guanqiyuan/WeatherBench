@@ -21,7 +21,7 @@
 ### ⬇️ Download
 | Download Link | Description |
 |---------|------|
-| [Google Drive](https://seungjunnah.github.io/Datasets/gopro)/[Baidu Netdisk](https://seungjunnah.github.io/Datasets/gopro) (1111) | Tran: 41,402 pairs.    Test:600 pairs. |
+| [Google Drive](https://seungjunnah.github.io/Datasets/gopro)/[Baidu Netdisk](https://seungjunnah.github.io/Datasets/gopro) (1111) | Tran: 41,402 pairs.    Test: 600 pairs. |
 
 ---
 
