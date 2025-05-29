@@ -57,4 +57,4 @@ We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherB
 ---
 
 ## 📧 Contact
-If you have any questions, please feel free to reach me out at qyuanguan@gmail.com.
+If you have any questions, please feel free to contact qyuanguan@gmail.com or csqianfengyang@163.com.
