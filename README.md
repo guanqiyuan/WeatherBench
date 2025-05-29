@@ -10,6 +10,6 @@
 ### ⬇️ Download
 | Download Link |
 |---------|
-| [Google Drive](https://seungjunnah.github.io/Datasets/gopro) / [Baidu Netdisk](https://pan.baidu.com/s/14EQihLVWud84ryPq4XeYfw) (dpn6) | 
+| [Google Drive](https://drive.google.com/drive/folders/1TWIqyxPewjIzdtcO2Nuo0gSnlAzWCSSm?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/14EQihLVWud84ryPq4XeYfw) (dpn6) | 
 
 ---
