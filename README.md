@@ -19,7 +19,7 @@
 ## ⛳️ To do
 
 * ✔ Release the dataset
-* ❌ Release the visual results
+* ✔ Release the visual results
 ---
 
 ## :hammer: Dataset pipeline
