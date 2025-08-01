@@ -32,7 +32,7 @@
 
 ---
 
-### ⬇️ Download
+### ⬇️ Dataset Download
 | Download Link | Description |
 |---------|------|
 | [Google Drive](https://seungjunnah.github.io/Datasets/gopro)/[Baidu Netdisk](https://seungjunnah.github.io/Datasets/gopro) (1111) | Tran: 41,402 pairs.    Test: 600 pairs. |
@@ -40,7 +40,9 @@
 ---
 
 
-## Quantitative Results
+## 📘 Quantitative Results
+![image](https://github.com/guanqiyuan/WeatherBench/blob/main/figs/Quantitative_Results.jpg)
+
 
 ---
 
