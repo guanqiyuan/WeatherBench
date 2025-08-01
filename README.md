@@ -75,7 +75,7 @@ We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherB
 ---
 
 ## ❣ Citation
-`xxxx`
+`Coming soon.`
 
 ---
 
