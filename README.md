@@ -27,8 +27,8 @@
 
 ---
 
-## :date: Illustration of the WeatherIR dataset
-![image](https://github.com/guanqiyuan/WeatherIR/blob/main/figs/dataset_show.jpg)
+## :date: Illustration of the WeatherBench
+![image](https://github.com/guanqiyuan/WeatherBench/blob/main/figs/data.jpg)
 
 ---
 
