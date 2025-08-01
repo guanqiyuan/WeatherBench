@@ -25,7 +25,7 @@
 
 ---
 
-## :date: Illustration of the WeatherBench
+## 🔎 Illustration of the WeatherBench
 ![image](https://github.com/guanqiyuan/WeatherBench/blob/main/figs/data.jpg)
 
 ---
