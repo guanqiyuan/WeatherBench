@@ -83,4 +83,4 @@ We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherB
 ## 📧 Contact
 If you have any questions, please feel free to contact qyuanguan@gmail.com or csqianfengyang@163.com.
 
-<a href="https://info.flagcounter.com/EzQ5"><img src="https://s01.flagcounter.com/map/EzQ5/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/nmxJ"><img src="https://s01.flagcounter.com/count2/nmxJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
