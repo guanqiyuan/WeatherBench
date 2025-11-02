@@ -72,10 +72,11 @@ We provide evaluation code ([Python Code](https://github.com/guanqiyuan/WeatherB
 ## ❣ Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
-@article{guan2025weatherbench
-  title={WeatherBench: A Real-World Benchmark Dataset for All-in-One Adverse Weather Image Restoration},
+@inproceedings{guan2025weatherbench,
+  title={Weatherbench: A real-world benchmark dataset for all-in-one adverse weather image restoration},
   author={Guan, Qiyuan and Yang, Qianfeng and Chen, Xiang and Song, Tianyu and Jin, Guiyue and Jin, Jiyu},
-  journal={arXiv preprint arXiv:2509.11642},
+  booktitle={ACM MM},
+  pages = {12607--12613},
   year={2025}
 }
 ```
