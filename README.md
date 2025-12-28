@@ -75,8 +75,8 @@ If this work is helpful for your research, please consider citing the following 
 @inproceedings{guan2025weatherbench,
   title={Weatherbench: A real-world benchmark dataset for all-in-one adverse weather image restoration},
   author={Guan, Qiyuan and Yang, Qianfeng and Chen, Xiang and Song, Tianyu and Jin, Guiyue and Jin, Jiyu},
-  booktitle={ACM MM},
-  pages = {12607--12613},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={12607--12613},
   year={2025}
 }
 ```
