@@ -32,7 +32,7 @@
 ### ⬇️ Dataset Download
 | Download Link | Description |
 |---------|------|
-| [Google Drive](https://drive.google.com/drive/folders/1TWIqyxPewjIzdtcO2Nuo0gSnlAzWCSSm?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1k-bEe7d_LHSUMNHr9_-9uA) (dlpu) | Tran: 41,402 pairs.    Test: 600 pairs. |
+| [Hugging Face](https://huggingface.co/datasets/csgqy/WeatherBench/tree/main) / [Google Drive](https://drive.google.com/drive/folders/1TWIqyxPewjIzdtcO2Nuo0gSnlAzWCSSm?usp=drive_link) / [Baidu Netdisk](https://pan.baidu.com/s/1k-bEe7d_LHSUMNHr9_-9uA) (dlpu) | Tran: 41,402 pairs.    Test: 600 pairs. |
 
 ---
 
